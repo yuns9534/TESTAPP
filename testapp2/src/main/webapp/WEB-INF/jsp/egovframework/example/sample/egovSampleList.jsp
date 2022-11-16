@@ -63,7 +63,7 @@
         <div id="content_pop">
         	<!-- 타이틀 -->
         	<div id="title">
-        		<h4>과부화걸려요....</h4>
+        		<h4>과부화걸려요222222</h4>
         		<ul>
         			<li><img src="<c:url value='/images/egovframework/example/title_dot.gif'/>" alt=""/><spring:message code="list.sample" /></li>
         		</ul>
